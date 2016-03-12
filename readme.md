@@ -176,5 +176,5 @@
 
 # Об авторах
 
-- [Николай Громов](http://nicothin.ru/contact). Технолог. Фрилансер. Преподаватель [EpicSkills](http://epixx.ru/) и [HTML Academy](https://htmlacademy.ru). Первый сайт сделал в 2000 г.
+- [Николай Громов](http://nicothin.pro/contact). Технолог. Фрилансер. Преподаватель [EpicSkills](http://epixx.ru/) и [HTML Academy](https://htmlacademy.ru). Первый сайт сделал в 2000 г.
 - [Андрей Алексеев](https://github.com/aalexeev239). Технолог. Фрилансер.
